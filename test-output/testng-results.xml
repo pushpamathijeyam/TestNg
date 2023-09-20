@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20309" started-at="2023-08-03T12:59:48 IST" finished-at="2023-08-03T13:00:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20309" started-at="2023-08-03T12:59:48 IST" finished-at="2023-08-03T13:00:09 IST">
+      <class name="org.sample.TestListic">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.sample.TestListic@706a04ae]" name="launch" is-config="true" duration-ms="25800" started-at="2023-08-03T12:59:23 IST" finished-at="2023-08-03T12:59:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="dynamicWebTable()[pri:0, instance:org.sample.TestListic@706a04ae]" name="dynamicWebTable" duration-ms="20283" started-at="2023-08-03T12:59:49 IST" finished-at="2023-08-03T13:00:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicWebTable -->
+      </class> <!-- org.sample.TestListic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

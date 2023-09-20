@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7850" started-at="2023-04-20T17:31:19 IST" finished-at="2023-04-20T17:31:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7850" started-at="2023-04-20T17:31:19 IST" finished-at="2023-04-20T17:31:27 IST">
+      <class name="org.testng.TestngDay1">
+        <test-method status="PASS" signature="beforeAllTc()[pri:0, instance:org.testng.TestngDay1@47db50c5]" name="beforeAllTc" is-config="true" duration-ms="3041" started-at="2023-04-20T17:31:19 IST" finished-at="2023-04-20T17:31:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTc -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.testng.TestngDay1@47db50c5]" name="beforeDate" is-config="true" duration-ms="2" started-at="2023-04-20T17:31:23 IST" finished-at="2023-04-20T17:31:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="login()[pri:0, instance:org.testng.TestngDay1@47db50c5]" name="login" duration-ms="219" started-at="2023-04-20T17:31:23 IST" finished-at="2023-04-20T17:31:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.testng.TestngDay1@47db50c5]" name="afterDate" is-config="true" duration-ms="0" started-at="2023-04-20T17:31:23 IST" finished-at="2023-04-20T17:31:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="titleget()[pri:0, instance:org.testng.TestngDay1@47db50c5]" name="titleget" is-config="true" duration-ms="4557" started-at="2023-04-20T17:31:23 IST" finished-at="2023-04-20T17:31:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleget -->
+      </class> <!-- org.testng.TestngDay1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
